@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://vitaliy-melnychuk.github.io/goit-js-hw-09-gallery/",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /goit-js-hw-09-gallery/"
   },
   "repository": {

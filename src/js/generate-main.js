@@ -1,0 +1,2 @@
+import {galleryItems} from './app';
+
